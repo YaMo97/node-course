@@ -33,8 +33,8 @@ Practice repo for the node-course by Andrew Mead on Udemy
     - [x] 4.6. Adding a Note 
     - [x] 4.7. Removing a Note 
     - [x] 4.8. ES6 Aside: Arrow Functions 
-    - [x] Refactoring to Use Arrow Functions 
-    - [ ] Listing Notes 
+    - [x] 4.9. Refactoring to Use Arrow Functions 
+    - [x] 4.10. Listing Notes 
     - [ ] Reading a Note 
 - [ ] 5. Debugging Node.js (Notes Apps)
     - [ ] Section Intro: Debugging Node.js 
