@@ -9,29 +9,29 @@ Practice repo for the node-course by Andrew Mead on Udemy
 ## Index
 
 - [x] 1. Welcome
-    - [x] Welcome to the Class! 
-    - [x] Grab the PDF Guide 
-    - [x] Installing and Exploring Node.js
-    - [x] Section Intro: Installing and Exploring Node.js 
-- [x] 2. Installing Node.js and Visual Studio Code 
-    - [x] What is Node.js? 
-    - [x] Why Should I Use Node.js? 
-    - [x] Your First Node.js Script 
+    - [x] 1.1. Welcome to the Class! 
+    - [x] 1.2. Grab the PDF Guide 
+- [x] 2.  Installing and Exploring Node.js
+    - [x] 2.1. Section Intro: Installing and Exploring Node.js 
+    - [x] 2.2. Installing Node.js and Visual Studio Code 
+    - [x] 2.3. What is Node.js? 
+    - [x] 2.4. Why Should I Use Node.js? 
+    - [x] 2.5. Your First Node.js Script 
 - [x] 3. Node.js Module System (Notes App)
-    - [x] Section Intro: Node.js Module System 
-    - [x] Importing Node.js Core Modules 
-    - [x] Importing Your Own Files 
-    - [x] Importing npm Modules 
-    - [x] Printing in Color 
-    - [x] Global npm Modules and nodemon 
+    - [x] 3.1. Section Intro: Node.js Module System 
+    - [x] 3.2. Importing Node.js Core Modules 
+    - [x] 3.3. Importing Your Own Files 
+    - [x] 3.4. Importing npm Modules 
+    - [x] 3.5. Printing in Color 
+    - [x] 3.6. Global npm Modules and nodemon 
 - [ ] 4. File System and Command Line Args (Notes App)
-    - [x] Section Intro: File System and Command Line Args 
-    - [x] Getting Input from Users 
-    - [x] Argument Parsing with Yargs: Part I 
-    - [x] Argument Parsing with Yargs: Part II 
-    - [x] Storing Data with JSON 
-    - [x] Adding a Note 
-    - [ ] Removing a Note 
+    - [x] 4.1. Section Intro: File System and Command Line Args 
+    - [x] 4.2. Getting Input from Users 
+    - [x] 4.3. Argument Parsing with Yargs: Part I 
+    - [x] 4.4. Argument Parsing with Yargs: Part II 
+    - [x] 4.5. Storing Data with JSON 
+    - [x] 4.6. Adding a Note 
+    - [x] 4.7. Removing a Note 
     - [ ] ES6 Aside: Arrow Functions 
     - [ ] Refactoring to Use Arrow Functions 
     - [ ] Listing Notes 
