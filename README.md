@@ -1,10 +1,10 @@
 # node-course
 Practice repo for the node-course by Andrew Mead on Udemy
 
-## Sections done: `3`
+## Sections completed: `4`
 
 ## Current Ongoing Section
-> 4. File System and Command Line Args (Notes App)
+> 5. Debugging Node.js (Notes Apps)
 
 ## Index
 
