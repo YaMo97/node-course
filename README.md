@@ -8,29 +8,29 @@ Practice repo for the node-course by Andrew Mead on Udemy
 
 ## Index
 
-- [ ] 1. Welcome
-    - [ ] Welcome to the Class! 
-    - [ ] Grab the PDF Guide 
-    - [ ] Installing and Exploring Node.js
-    - [ ] Section Intro: Installing and Exploring Node.js 
-- [ ] 2. Installing Node.js and Visual Studio Code 
-    - [ ] What is Node.js? 
-    - [ ] Why Should I Use Node.js? 
-    - [ ] Your First Node.js Script 
-- [ ] 3. Node.js Module System (Notes App)
-    - [ ] Section Intro: Node.js Module System 
-    - [ ] Importing Node.js Core Modules 
-    - [ ] Importing Your Own Files 
-    - [ ] Importing npm Modules 
-    - [ ] Printing in Color 
-    - [ ] Global npm Modules and nodemon 
+- [x] 1. Welcome
+    - [x] Welcome to the Class! 
+    - [x] Grab the PDF Guide 
+    - [x] Installing and Exploring Node.js
+    - [x] Section Intro: Installing and Exploring Node.js 
+- [x] 2. Installing Node.js and Visual Studio Code 
+    - [x] What is Node.js? 
+    - [x] Why Should I Use Node.js? 
+    - [x] Your First Node.js Script 
+- [x] 3. Node.js Module System (Notes App)
+    - [x] Section Intro: Node.js Module System 
+    - [x] Importing Node.js Core Modules 
+    - [x] Importing Your Own Files 
+    - [x] Importing npm Modules 
+    - [x] Printing in Color 
+    - [x] Global npm Modules and nodemon 
 - [ ] 4. File System and Command Line Args (Notes App)
-    - [ ] Section Intro: File System and Command Line Args 
-    - [ ] Getting Input from Users 
-    - [ ] Argument Parsing with Yargs: Part I 
-    - [ ] Argument Parsing with Yargs: Part II 
-    - [ ] Storing Data with JSON 
-    - [ ] Adding a Note 
+    - [x] Section Intro: File System and Command Line Args 
+    - [x] Getting Input from Users 
+    - [x] Argument Parsing with Yargs: Part I 
+    - [x] Argument Parsing with Yargs: Part II 
+    - [x] Storing Data with JSON 
+    - [x] Adding a Note 
     - [ ] Removing a Note 
     - [ ] ES6 Aside: Arrow Functions 
     - [ ] Refactoring to Use Arrow Functions 
