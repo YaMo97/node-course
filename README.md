@@ -1,10 +1,10 @@
 # node-course
 Practice repo for the node-course by Andrew Mead on Udemy
 
-## Sections completed: `4`
+## Sections completed: `5`
 
 ## Current Ongoing Section
-> 5. Debugging Node.js (Notes Apps)
+> 6. Asynchronous Node.js (Weather App)
 
 ## Index
 
@@ -36,10 +36,10 @@ Practice repo for the node-course by Andrew Mead on Udemy
     - [x] 4.9. Refactoring to Use Arrow Functions 
     - [x] 4.10. Listing Notes 
     - [x] 4.11. Reading a Note 
-- [ ] 5. Debugging Node.js (Notes Apps)
-    - [ ] Section Intro: Debugging Node.js 
-    - [ ] Debugging Node.js 
-    - [ ] Error Messages 
+- [x] 5. Debugging Node.js (Notes Apps)
+    - [x] Section Intro: Debugging Node.js 
+    - [x] Debugging Node.js 
+    - [x] Error Messages 
 - [ ] 6. Asynchronous Node.js (Weather App)
     - [ ] Section Intro: Asynchronous Node.js 
     - [ ] Asynchronous Basics 
