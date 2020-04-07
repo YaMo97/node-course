@@ -47,7 +47,7 @@ Practice repo for the node-course by Andrew Mead on Udemy
     - [x] 6.4. Making HTTP Requests 
     - [x] 6.5. Customizing HTTP Requests 
     - [x] 6.6. An HTTP Request Challenge 
-    - [ ] Handling Errors 
+    - [x] 6.7. Handling Errors 
     - [ ] The Callback Function 
     - [ ] Callback Abstraction 
     - [ ] Callback Abstraction Challenge 
