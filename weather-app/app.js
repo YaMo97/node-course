@@ -13,3 +13,19 @@ request({ url: url, json: true }, (error, response) => {
     console.log(response.body.weather[0].main + ' It is currently ' + temp + ' degrees out. There is ' + cloudiness + '% cloudiness out')
     // console.log('It is currently %d degrees out. There is %d% cloudiness out.', temp, cloudiness)
 })
+
+const MAPBOX_TOKEN = 'pk.eyJ1IjoieWF0aG1hbjk3IiwiYSI6ImNrOHB4ZHB0bzAzNTUzZW01MzlyYzhhZDQifQ.QzDF4e-IUABwBV4nUt6rBg'
+
+const geocodeURL = "https://api.mapbox.com/geocoding/v5/mapbox.places/Los%20Angeles.json?access_token=pk.eyJ1IjoieWF0aG1hbjk3IiwiYSI6ImNrOHB4ZHB0bzAzNTUzZW01MzlyYzhhZDQifQ.QzDF4e-IUABwBV4nUt6rBg&limit=1"
+
+request({
+    url: geocodeURL,
+    json: true
+}, (error, response) => {
+    const placeName = response.body.features[0].place_name
+    const latitude = response.body.features[0].center[1]
+    const longitude = response.body.features[0].center[0]
+
+    console.log('Place Name: ' + placeName)
+    console.log('Latitude: ' + latitude + '; Longitude: ' + longitude)
+})

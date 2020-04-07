@@ -46,7 +46,7 @@ Practice repo for the node-course by Andrew Mead on Udemy
     - [x] 6.3. Call Stack, Callback Queue, and Event Loop 
     - [x] 6.4. Making HTTP Requests 
     - [x] 6.5. Customizing HTTP Requests 
-    - [ ] An HTTP Request Challenge 
+    - [x] 6.6. An HTTP Request Challenge 
     - [ ] Handling Errors 
     - [ ] The Callback Function 
     - [ ] Callback Abstraction 
