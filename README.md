@@ -43,8 +43,8 @@ Practice repo for the node-course by Andrew Mead on Udemy
 - [ ] 6. Asynchronous Node.js (Weather App)
     - [x] 6.1. Section Intro: Asynchronous Node.js 
     - [x] 6.2. Asynchronous Basics 
-    - [ ] Call Stack, Callback Queue, and Event Loop 
-    - [ ] Making HTTP Requests 
+    - [x] 6.3. Call Stack, Callback Queue, and Event Loop 
+    - [x] 6.4. Making HTTP Requests 
     - [ ] Customizing HTTP Requests 
     - [ ] An HTTP Request Challenge 
     - [ ] Handling Errors 

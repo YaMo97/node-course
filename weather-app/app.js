@@ -1,11 +1,11 @@
-console.log('Starting')
+// DarkSky.net not available any more
+// Using Open Weather Map as weather API
 
-setTimeout(() => {
-    console.log('2 Second Timer')
-}, 2000)
+const request = require('request')
 
-setTimeout(() => {
-    console.log('0 Second Timer')
-}, 0)
+const url = 'http://api.openweathermap.org/data/2.5/weather?lat=37.8267&lon=-122.4233&appid=dabaff886b08e0ea80677cb9a249f0b0'
 
-console.log('Stopping')
+request({ url }, (error, response) => {
+    const data = JSON.parse(response.body)
+    console.log(data)
+})
