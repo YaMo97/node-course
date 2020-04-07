@@ -37,12 +37,12 @@ Practice repo for the node-course by Andrew Mead on Udemy
     - [x] 4.10. Listing Notes 
     - [x] 4.11. Reading a Note 
 - [x] 5. Debugging Node.js (Notes Apps)
-    - [x] Section Intro: Debugging Node.js 
-    - [x] Debugging Node.js 
-    - [x] Error Messages 
+    - [x] 5.1. Section Intro: Debugging Node.js 
+    - [x] 5.2. Debugging Node.js 
+    - [x] 5.3. Error Messages 
 - [ ] 6. Asynchronous Node.js (Weather App)
-    - [ ] Section Intro: Asynchronous Node.js 
-    - [ ] Asynchronous Basics 
+    - [x] 6.1. Section Intro: Asynchronous Node.js 
+    - [x] 6.2. Asynchronous Basics 
     - [ ] Call Stack, Callback Queue, and Event Loop 
     - [ ] Making HTTP Requests 
     - [ ] Customizing HTTP Requests 
