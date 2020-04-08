@@ -49,7 +49,7 @@ Practice repo for the node-course by Andrew Mead on Udemy
     - [x] 6.6. An HTTP Request Challenge 
     - [x] 6.7. Handling Errors 
     - [x] 6.8. The Callback Function 
-    - [ ] Callback Abstraction 
+    - [x] 6.9. Callback Abstraction 
     - [ ] Callback Abstraction Challenge 
     - [ ] Callback Chaining 
     - [ ] ES6 Aside: Object Property Shorthand and Destructuring 
