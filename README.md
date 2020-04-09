@@ -51,7 +51,7 @@ Practice repo for the node-course by Andrew Mead on Udemy
     - [x] 6.8. The Callback Function 
     - [x] 6.9. Callback Abstraction 
     - [x] 6.10. Callback Abstraction Challenge 
-    - [ ] Callback Chaining 
+    - [x] 6.11. Callback Chaining 
     - [ ] ES6 Aside: Object Property Shorthand and Destructuring 
     - [ ] Destructuring and Property Shorthand Challenge 
     - [ ] Bonus: HTTP Requests Without a Library 
