@@ -54,7 +54,7 @@ Practice repo for the node-course by Andrew Mead on Udemy
     - [x] 6.11. Callback Chaining 
     - [x] 6.12. ES6 Aside: Object Property Shorthand and Destructuring 
     - [x] 6.13. Destructuring and Property Shorthand Challenge 
-    - [ ] Bonus: HTTP Requests Without a Library 
+    - [x] 6.14. Bonus: HTTP Requests Without a Library 
 - [ ] 7. Web Servers (Weather App)
     - [ ] Section Intro: Web Servers 
     - [ ] Hello Express! 
