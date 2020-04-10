@@ -52,7 +52,7 @@ Practice repo for the node-course by Andrew Mead on Udemy
     - [x] 6.9. Callback Abstraction 
     - [x] 6.10. Callback Abstraction Challenge 
     - [x] 6.11. Callback Chaining 
-    - [ ] ES6 Aside: Object Property Shorthand and Destructuring 
+    - [x] 6.12. ES6 Aside: Object Property Shorthand and Destructuring 
     - [ ] Destructuring and Property Shorthand Challenge 
     - [ ] Bonus: HTTP Requests Without a Library 
 - [ ] 7. Web Servers (Weather App)
