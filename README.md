@@ -1,10 +1,10 @@
 # node-course
 Practice repo for the node-course by Andrew Mead on Udemy
 
-## Sections completed: `5`
+## Sections completed: `6`
 
 ## Current Ongoing Section
-> 6. Asynchronous Node.js (Weather App)
+> 7. Web Servers (Weather App)
 
 ## Index
 
@@ -40,7 +40,7 @@ Practice repo for the node-course by Andrew Mead on Udemy
     - [x] 5.1. Section Intro: Debugging Node.js 
     - [x] 5.2. Debugging Node.js 
     - [x] 5.3. Error Messages 
-- [ ] 6. Asynchronous Node.js (Weather App)
+- [x] 6. Asynchronous Node.js (Weather App)
     - [x] 6.1. Section Intro: Asynchronous Node.js 
     - [x] 6.2. Asynchronous Basics 
     - [x] 6.3. Call Stack, Callback Queue, and Event Loop 
